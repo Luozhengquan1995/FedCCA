@@ -113,7 +113,7 @@ If you find this code useful, please cite our paper:
 ```bibtex
 @inproceedings{luo2026fedcca,
   title={FedCCA: Federated Canonical Correlation Analysis},
-  author={Luo, Zhengquan and Chong, Kai Fong Ernest and Wei, Pengfei and Chen, Changyou and Zhao, Peilin and Han, Renmin and Zhou, Chunlai and Wang, Yunlong and Xu, Zhiqiang},
+  author={Zhengquan Luo and Kai Fong Ernest Chong and Pengfei Wei and Changyou Chen and Peilin Zhao and Renmin Han and Chunlai Zhou and Yunlong Wang and Zhiqiang Xu},
   booktitle={Proceedings of the 29th International Conference on Artificial Intelligence and Statistics (AISTATS)},
   series={Proceedings of Machine Learning Research},
   volume={300},

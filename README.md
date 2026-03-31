@@ -111,12 +111,12 @@ Outputs:
 If you find this code useful, please cite our paper:
 
 ```bibtex
-@inproceedings{fedcca_aistats2026,
+@inproceedings{luo2026fedcca,
   title={FedCCA: Federated Canonical Correlation Analysis},
-  author={Anonymous},
-  booktitle={Proceedings of The 29th International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  author={Luo, Zhengquan and Chong, Kai Fong Ernest and Wei, Pengfei and Chen, Changyou and Zhao, Peilin and Han, Renmin and Zhou, Chunlai and Wang, Yunlong and Xu, Zhiqiang},
+  booktitle={Proceedings of the 29th International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  series={Proceedings of Machine Learning Research},
+  volume={300},
   year={2026}
 }
 ```
-
-Please update author names in the citation after camera-ready release.
